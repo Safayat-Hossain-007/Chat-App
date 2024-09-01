@@ -1,6 +1,5 @@
 ﻿## Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB (2024)
 
-![Alt text](Full%20Stack%20Chat%20App.png?raw=true "Title")
 
 A real-time messaging Chat App using React, Socket.io, Node.js, Redux-Toolkit, and MongoDB. This tutorial series covers everything from setup to implementation, offering valuable insights and practical skills. 
 
